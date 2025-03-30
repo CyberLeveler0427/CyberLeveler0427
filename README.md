@@ -1,4 +1,4 @@
-## Hi there 👋 I am new to coding and trying to figure all of this out, any tips are greatly appreciated. I amm currently making a website to share my creative writing. 
+## Hi there 👋 I am new to coding and trying to figure all of this out, any tips are greatly appreciated. I am currently making a website to share my creative writing. 
 I'm really looking for any help on how to create a retro style video game website, or some kinda cool terminal retro feel for the website.
 I love writing so I am looking for it to just be a library of my dreams.
 
